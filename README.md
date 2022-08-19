@@ -1,5 +1,6 @@
 # COVID-19-NEWS
-The repository contains an ongoing collection of tweets IDs associated with the COVID-19. We used the Twitter’s search API to gather historical Tweets from the preceding 7 days, leading to the first Tweets in our dataset dating back to January 1, 2020. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s Terms of Service, we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use.
+ 
+The repository contains  73,138   tweet  IDs associated with COVID-19   collected from January 2020 to December 2021, offering insights into developing and reopening a series of COVID-related studies in the media. We used Twitter’s API to gather historical Tweets posted on six global news channels, namely BBC, CGTN, CNN, DW, RT, and France24, from their respective countries, Britain, China, The United States, Germany, Russia, and France, respectively. To comply with Twitter’s Terms of Service, we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use.
 
 The associated paper to this repository can be found here:
 
