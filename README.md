@@ -6,7 +6,7 @@ The associated paper to this repository can be found here:
 
 
  
-# Data Organization
+ 
 
 
 # Data Usage Agreement / How to Cite
@@ -16,13 +16,19 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 BibTeX:
 
  ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+article{ ,
+  title={ },
+  author={ },
+  journal={ },
+  volume={ },
+  number={ },
+  pages={ },
+  year={ },
+  publisher={Springer}
+} 
+
 ```
 
-# How to Hydrate
-
-# Statistics Summary (v0.0)
-
+ 
+ 
 # Related Papers
