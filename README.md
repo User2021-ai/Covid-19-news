@@ -24,6 +24,6 @@ Ahmad, W., Wang, B., Martin, P. et al. Enhanced sentiment analysis regarding COV
  
  
 # Related Papers
-1- <a href="https://rdcu.be/c0Cq1" > Enhanced sentiment analysis regarding COVID-19 news from global channels </a> 
+1- <a href="https://rdcu.be/c0Cq1" > Enhanced sentiment analysis regarding COVID-19 news from global channels </a> <br>
 2- <a href="https://rdcu.be/c0Cuj" > Topics, Sentiments, and Emotions Triggered by COVID-19-Related Tweets from IRAN and Turkey Official News Agencies </a> 
  
