@@ -21,7 +21,16 @@ BibTeX:
 Ahmad, W., Wang, B., Martin, P. et al. Enhanced sentiment analysis regarding COVID-19 news from global channels. J Comput Soc Sc (2022). https://doi.org/10.1007/s42001-022-00189-1
 
 ```
-
+ ```ruby
+@article{ahmad2022enhanced,
+  title={Enhanced sentiment analysis regarding COVID-19 news from global channels},
+  author={Ahmad, Waseem and Wang, Bang and Martin, Philecia and Xu, Minghua and Xu, Han},
+  journal={Journal of Computational Social Science},
+  pages={1--39},
+  year={2022},
+  publisher={Springer}
+}
+```
  
  
 # Related Papers
